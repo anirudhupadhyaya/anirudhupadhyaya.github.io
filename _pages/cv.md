@@ -12,7 +12,7 @@ header:
   overlay_image: images/portfolio/mill_top_view.jpg
   actions:
     - label: "Download PDF"
-      url: 
+      url: "https://github.com/anirudhupadhyaya/anirudhupadhyaya.github.io/blob/master/files/Resume_Anirudh.pdf"
 
 
 ---
