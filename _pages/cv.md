@@ -53,18 +53,13 @@ header:
 
 <br clear="left"/>
 
-## Milwaukee Tool - [milwaukeetool.com](https://www.milwaukeetool.com/) <img align="left" src="../images/Milwaukee_Logo.png" width="250" style="padding-right: 30px; padding-bottom: 60px; padding-top: 60px">
-<b>NPD Mechanical Design Engineer</b>, <em>January - August 2022</em>
-* Conducted FEA analysis on BLDC motors of different sizes and winding configurations, recommended optimal designs for product development using Pugh Matrix for informed and cost-effective solutions.
-* Assessed power tool performance requirements through the collection and analysis of motor thermal characteristics and power output data from competitor products.
+## Bosch Limited - [bosch.in](https://www.bosch.in/) <img align="left" src="../images/Milwaukee_Logo.png" width="250" style="padding-right: 30px; padding-bottom: 60px; padding-top: 60px">
+<b>Deptuty Manager, Research and Developement (Electrification division)</b>, <em>July 2018 - July 2022</em>
+* I tested vehicles
+* I built batteries
 <br clear="left"/>
 
-## Wisconsin Electric Machines and Power Electronics Consortium <img align="left" src="../images/wempec_logo.jpg" width="250" style="padding-right: 30px; padding-bottom: 50px; padding-top: 50px"> - [wempec.wisc.edu](wempec.wisc.edu) 
-<b>Undergraduate Researcher & Lab Assistant</b>, <em>September 2019 – December 2021</em>
 
-I joined WEMPEC as a research lab assistant working directly under lab manager Kyle Hansen.
-I was accountable for prototyping a new 20 N-m dynamometer setup and various lab tasks such as electric machines fabrication for the WEMPEC research lab. In 2020, I moved on to a new role as an undergraduate reseacher working directly under Prof. Eric Severson, where I investigated and performed literature review on the current development of passive permanent and superconducting magnetic bearing technologies.
-<br clear="left"/>
 
 # Extracurricular
 ## Wisconsin Racing Electric - [wisconsinracing.org](https://www.wisconsinracing.org/) <img align="left" src="../images/wisc_racing.png" width="250" style="padding-right: 30px; padding-bottom: 50px; padding-top: 50px">
@@ -114,5 +109,7 @@ I work as a student tutor under the Undergraduate Learning Center in College of 
 
 ## Language 
 * English 
-* Mandarin Chinese
-* Cantonese
+* Hindi
+* Kannada
+* Tulu
+* German (Limited proficiency)
