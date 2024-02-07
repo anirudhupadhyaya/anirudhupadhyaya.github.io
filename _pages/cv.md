@@ -27,9 +27,13 @@ header:
 # Education
 ## University of Wisconsin - Madison <img align='left' src="/images/cv/uw-crest-color-web-digital.png" width="250" style="padding-left: 40px; padding-right: 70px; padding-top:15px; padding-bottom: 170px">
 
-* <b>B.S. in Mechanical Engineering</b>, <em>Fall 2021</em> 
 * <b>M.S. in Electrical and Computer Engineering</b>, <em> Expected July 2024</em>
     * Advised under [Professor Eric L. Severson](https://www.linkedin.com/in/eseverson/).
+
+## Indian Institute of Technology Madras (IITM) <img align='left' src="/images/cv/iit-madras-logo.png" width="250" style="padding-left: 40px; padding-right: 70px; padding-top:15px; padding-bottom: 170px">
+
+* <b>B.Tech in Engineering Design </b>, <em> July 2018</em>
+
 
 #### Relavent Coursework
 * Electromagnetic Design of AC Machines
