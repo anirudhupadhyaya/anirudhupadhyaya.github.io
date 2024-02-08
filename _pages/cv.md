@@ -48,7 +48,6 @@ header:
 <b>Research Assistant</b>, <em>September 2022 - Present</em>
 
 ### Projects
-  * Additively Manufactured Stator Housing for High-Speed Bearingless Generator
   * Bearingless Machines (BSPM) for Aerial E-Turbocharger Application 
 
 <br clear="left"/>
