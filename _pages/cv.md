@@ -36,7 +36,7 @@ header:
 * Redesign and Prototype Fabrication
 * Power Electronic Circuits and Laboratory
 * Finite Elements 
-
+<br clear="right"/>
 ## Indian Institute of Technology Madras (IITM) <img align='left' src="/images/cv/iit-madras-logo.png" width="250" style="padding-left: 40px; padding-right: 70px; padding-top:15px; padding-bottom: 170px">
 
 * <b>B.Tech in Engineering Design </b>, <em> July 2018</em>
@@ -44,7 +44,7 @@ header:
 <br clear="right"/>
 
 # Experience
-## Severson Research Group - [severson.wempec.wisc.edu](https://severson.wempec.wisc.edu/) <img align="left" src="../images/wempec_logo.jpg" width="250" style="padding-right: 30px; padding-bottom: 15px; padding-top: 10px">
+## Severson Research Group - [severson.wempec.wisc.edu](https://severson.wempec.wisc.edu/) <img align="left" src="../images/cv/wempec_logo.jpg" width="250" style="padding-right: 30px; padding-bottom: 15px; padding-top: 10px">
 <b>Research Assistant</b>, <em>September 2022 - Present</em>
 
 ### Projects
@@ -52,7 +52,7 @@ header:
 
 <br clear="left"/>
 
-## Bosch Limited - [bosch.in](https://www.bosch.in/) <img align="left" src="../images/Milwaukee_Logo.png" width="250" style="padding-right: 30px; padding-bottom: 60px; padding-top: 60px">
+## Bosch Limited - [bosch.in](https://www.bosch.in/) <img align="left" src="/images/cv/bosch-logo.png" width="250" style="padding-right: 30px; padding-bottom: 60px; padding-top: 60px">
 <b>Deptuty Manager, Research and Developement (Electrification division)</b>, <em>July 2018 - July 2022</em>
 * I tested vehicles
 * I built batteries
