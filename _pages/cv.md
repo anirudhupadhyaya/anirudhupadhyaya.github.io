@@ -33,50 +33,38 @@ header:
 #### Relavent Coursework
 * Electromagnetic Design of AC Machines
 * Dynamics and Control of AC Drives
-* Redesign and Prototype Fabrication
-* Power Electronic Circuits and Laboratory
-* Finite Elements 
-<br clear="right"/>
+* Power Elctronic Circuits
+* Advanced Computer Control of Machines and Processes
+* Digital System Design
+<br clear="left"/>
+
 ## Indian Institute of Technology Madras (IITM) <img align='left' src="/images/cv/iit-madras-logo.png" width="250" style="padding-left: 40px; padding-right: 70px; padding-top:15px; padding-bottom: 170px">
 
 * <b>B.Tech in Engineering Design </b>, <em> July 2018</em>
+* <b>M.Tech in Automotive Engineering </b>, <em> July 2018</em>
+#### Relavent Coursework
+* Control of Autotmotive Systems
+* Analog and Digital Electronics
+* Energy Storage Devices and Systems
 
-<br clear="right"/>
+<br clear="left"/>
 
 # Experience
 ## Severson Research Group - [severson.wempec.wisc.edu](https://severson.wempec.wisc.edu/) <img align="left" src="../images/cv/wempec_logo.jpg" width="250" style="padding-right: 30px; padding-bottom: 15px; padding-top: 10px">
 <b>Research Assistant</b>, <em>September 2022 - Present</em>
 
 ### Projects
-  * Bearingless Machines (BSPM) for Aerial E-Turbocharger Application 
+  * Bearingless Machines (BSPM) for Aerial E-Turbocharger Application (MS Project)
+  * Autonomous Maze Solver (ECE 551 Course project)
 
 <br clear="left"/>
 
 ## Bosch Limited - [bosch.in](https://www.bosch.in/) <img align="left" src="/images/cv/bosch-logo.png" width="250" style="padding-right: 30px; padding-bottom: 60px; padding-top: 60px">
-<b>Deptuty Manager, Research and Developement (Electrification division)</b>, <em>July 2018 - July 2022</em>
-* I tested vehicles
-* I built batteries
+<b>Deptuty Manager, Electrification </b>, <em>July 2018 - July 2022</em>
+* Calibration of Vehicle Control Unit (VCU) software for an electric light commercial truck application
+* Responsible for developement of 48V Battery systems and Battery Managmenet System
 <br clear="left"/>
 
-
-
-# Extracurricular
-## Wisconsin Racing Electric - [wisconsinracing.org](https://www.wisconsinracing.org/) <img align="left" src="../images/wisc_racing.png" width="250" style="padding-right: 30px; padding-bottom: 50px; padding-top: 50px">
-<b>Chassis Team Member</b>, <em>2018 - 2021</em>
-
-Competed in FSAE Electric 2019 in Lincoln, NE, received 2nd place in design category. I worked on various projects such as prototyping the enclosure for the TSAL warning light system using SLA 3D printing. Accumulated over 75+ hours of machining experience in manufacturing chassis steering and welding jig components.
-
-[<img src="../images/wisco_racing/2019_car.JPG" width="395">](../images/wisco_racing/2019_car.JPG) [<img src="../images/wisco_racing/2019_team_lincoln.jpg" width="575" >](../images/wisco_racing/2019_team_lincoln.JPG)
-
-<br clear="left"/>
-
-## UW CoE Undergraduate Learning Center <img align="left" src="../images/uw_ulc.jpg" width="250" style="padding-right: 50px; padding-top:10px">
-<b>Undergraduate Tutor</b>, <em>January - December 2019</em>
-
-I work as a student tutor under the Undergraduate Learning Center in College of Engineering. Provided group and one-on-one tutoring for 30+ undergraduate students each week.
-<br clear="left"/>
-<br/>
-<br/>
 
 
 # Publications
@@ -89,22 +77,22 @@ I work as a student tutor under the Undergraduate Learning Center in College of 
   
 # Skills
 ## Hands-on
-* Electric Machine Fabrication 
-* Component Machining and Assembly
-* CAD Design and Drafting (GD&T)
+* Printed Circuit Board assembly  
+* Wiring Harness creation and electrical assembly of components
+* Motor testing on dynamometers
   
 ## Software
 * Python
-* SolidWorks
-* Siemens NX
-* ANSYS
+* Autodesk Inventor
 * Altium
-* LabView
 * MATLAB/Simulink
-* Siemens MAGNET
 * FEMM
 * JMAG
 * LaTeX
+
+## Protocols
+* CAN, SPI, UART, I2C
+
 
 ## Language 
 * English 

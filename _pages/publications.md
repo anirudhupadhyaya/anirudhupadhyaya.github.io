@@ -9,5 +9,5 @@ header:
 ---
 
 {% for post in site.publications reversed %}
-  {% include archive-single-publications.html %}
+  {% include archive-single.html %}
 {% endfor %}
