@@ -1,14 +1,13 @@
 ---
 layout: splash
 title: "Projects"
-excerpt: Active and Past Projects.
 permalink: /portfolio/
 author_profile: false
 header: 
   overlay_color: #0a0a0a
   overlay_filter: rgba(240, 240, 240, 0.4)
   overlay_image: /images/portfolio/windings/bp5_stator.jpg
-
+---
 intro: 
   - excerpt: I am currently in the process of updating/adding new items to my portfolio, some pages here are not fully completed yet. I am hoping to have them done by the end of August.
 
