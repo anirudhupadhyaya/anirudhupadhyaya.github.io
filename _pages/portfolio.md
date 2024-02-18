@@ -7,12 +7,12 @@ header:
   overlay_color: #0a0a0a
   overlay_filter: rgba(240, 240, 240, 0.4)
   overlay_image: /images/portfolio/windings/bp5_stator.jpg
----
+
 intro: 
   - excerpt: I am currently in the process of updating/adding new items to my portfolio, some pages here are not fully completed yet. I am hoping to have them done by the end of August.
 
 
-
+feature_row:
 - url: /portfolio/wempec_eturbo/
   image_path: /images/gallery_cover/Turbocharger_nasa.png
   title: Bearingless Machines (BSPM) for Aerial E-Turbocharger Application
@@ -20,10 +20,8 @@ intro:
   btn_class: btn--primary
   btn_label: "Read More"
 
-
-
-
-
+feature_row2:  
+---
 <style>
   #show_bg {
     background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)),
