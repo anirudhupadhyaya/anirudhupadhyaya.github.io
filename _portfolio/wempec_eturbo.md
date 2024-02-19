@@ -21,10 +21,20 @@ This is an ongoing project for the U.S. Army Combat Capabilities Development Com
 <br>
 
 # Current Responsibility
-- Facilitate the development of a multi-physics modeling framework for evaluating and optimizing BSPM electric
-machines. Created Python scripts necessary to evaluate machine constants and coil inductances in JMAG.
+- Characterization of a bearingless motor in a static bearingless dynamometer test-stand.
 
-- Performing setup and characterization of a 4-DOF 8kW twin stators BSPM machine. Prepared engineering drawings
-and fabricated components for dynamometer fixturing.
+- I am responsible for developing the control code to operate the prototype machine. 
 
-- Experimentally validate BSPM FEA thermal models created in ANSYS Motor-CAD.
+- Conduct experiments to prove speed-power capapility of prototype. The goal of the project is to demonstrate a bearingless machine at 160 kRPM!
+
+- Prepare reports, documentation and slides to present to project stakeholders in a monthly review meeting.
+
+# Technical Details
+
+- All of the control algorithm in developed in MATLAB Simulink. The top-level simulation combines both the controller as well as the plant. The plant models the electrical and mechanical elements of a bearingless machines
+
+[<img src="/images/portfolio/Simulink_capture.png" width="1000" >](/images/portfolio/Simulink_capture.png)
+
+- The controller follows a cascaded approach with a outer motion controller followed by an inner current regulator. 
+- Complex Vector Current Regualation (CVCR) is used for current regulation. Several other current regulation techniques were implented and benchmarked experimentally before zeroing in on CVCR.
+- Rotor position sensing at speeds such as 160 kRPM is a challenge. As part of this project, I have developed sensorless algorithm to estimate the rotor position. This work as resulted in [confernce publication](/publications/).

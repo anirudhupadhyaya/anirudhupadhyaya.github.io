@@ -21,6 +21,18 @@ feature_row:
   btn_label: "Read More"
 
 feature_row2:  
+- url: /portfolio/bosch_BMS/
+  image_path: /images/portfolio/BMS_stock.png
+  title: Low cost Battery Management System for 12V Li-ion battery
+  excerpt: Thrust to create a low-cost 12V BMS solution as part of embracing electrification for the Indian market during my stint at Bosch India.
+  btn_class: btn--primary
+  btn_label: "Read More"
+photo_gallery:
+- url: https://photos.app.goo.gl/JPcHQWNW28xP1x7h8
+  title: Photo Gallery
+  excerpt: Photo album for various past projects.
+  btn_label: View Here
+  btn_class: btn--info
 ---
 <style>
   #show_bg {
@@ -87,6 +99,18 @@ feature_row2:
 <br/>
 
 
+{% include feature_row id="feature_row2"%}
 
+<!-- {% include feature_row id="photo_gallery" type="center"%} -->
+
+<div class="container">
+  <div id='show_bg'>
+    <div class="text-block">
+      <h1 style="color: white;">Interested in seeing more?</h1>
+      <p>Check my photo gallery in Google Photos!</p>
+      <a href="https://photos.app.goo.gl/JPcHQWNW28xP1x7h8"><button class="btn"><u>View Here</u></button></a>
+    </div>
+  </div>
+</div>
 
 <br/>
