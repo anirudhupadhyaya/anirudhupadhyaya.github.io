@@ -27,6 +27,20 @@ feature_row2:
   excerpt: Thrust to create a low-cost 12V BMS solution as part of embracing electrification for the Indian market during my stint at Bosch India.
   btn_class: btn--primary
   btn_label: "Read More"
+
+- url: /portfolio/bosch_calibration/
+  image_path: /images/portfolio/tata_ace_stock.jpg
+  title: Electric vehicle application engineering 
+  excerpt: Adaptation of VCU software for the application of a 48V traction system in an e-LCV
+  btn_class: btn--primary
+  btn_label: "Read More"  
+
+- url: /portfolio/bosch_battery/
+  image_path: /images/portfolio/lithium-battery-stocks.jpg
+  title: System Engineer for 48V battery developement
+  excerpt: Core team member in grounds up development of 48V Lithium ion battery for e-2W
+  btn_class: btn--primary
+  btn_label: "Read More"  
 photo_gallery:
 - url: https://photos.app.goo.gl/JPcHQWNW28xP1x7h8
   title: Photo Gallery
