@@ -21,7 +21,7 @@ header:
 
 My name is Anirudh Upadhyaya and I hail from the west coast of India, from the temple town of Udupi in the state of Karnataka.
 
-Currently, I am an MS student/researcher in Electrical and Computer Engineering at the University of Wisconsin–Madison. I am a part of the [Severson Research Group](https://severson.wempec.wisc.edu/), where my focus lies on applying advanced control techniques to operating ultr-high speed bearingless machines for turbocharger applications. I am also part of [WEMPEC](https://wempec.wisc.edu/).
+Currently, I am an MS student/researcher in Electrical and Computer Engineering at the University of Wisconsin–Madison. I am part of the [Severson Research Group](https://severson.wempec.wisc.edu/), where my focus lies on applying advanced control techniques to operating and testing ultra-high speed bearingless machines for turbocharger applications. I am also part of [WEMPEC](https://wempec.wisc.edu/).
 
 Before moving half-across the globe to purse my masters degree in 2022, I was working for Bosch Limited, Bangalore on various topics across e-mobility towards realizing electrification for the Indian market.
 
